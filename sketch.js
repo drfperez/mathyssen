@@ -1,4 +1,4 @@
-//con la tecla 'N' si esta presionada+x-y+q-t, canvia la vision del cuadro 
+//CREAT PER IZAN LECINA con la tecla 'N' si esta presionada+x-y+q-t, canvia la vision del cuadro 
 let mic
  
 function setup(){
